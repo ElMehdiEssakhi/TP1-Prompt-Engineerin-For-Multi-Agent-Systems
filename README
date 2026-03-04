@@ -16,7 +16,7 @@ This project demonstrates how to use **LangChain** with OpenAI APIs and other to
 
 1. **Clone the repository**:
 
-```bash
+```bash 
 git clone https://github.com/ElMehdiEssakhi/TP1-Prompt-Engineerin-For-Multi-Agent-Systems
 cd TP1-Prompt-Engineerin-For-Multi-Agent-Systems
 ```
@@ -26,9 +26,8 @@ cd TP1-Prompt-Engineerin-For-Multi-Agent-Systems
 ```bash
 uv install
 ```
-3. **Configure API Keysy**:
+3. **Configure API Keys**:
 Create a .env file in the project root:
 
-```bash
+```dotenv
 OPENAI_API_KEY=your_openai_api_key_here
-```
